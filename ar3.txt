@@ -3,6 +3,7 @@
 		<title>prove</title>
 	</head>
 	<body>
-		Esto es otra prueba
+		Esto es otra prueba 
+		corregida
 	</body>
 </html>
