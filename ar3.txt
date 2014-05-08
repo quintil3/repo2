@@ -1,0 +1,8 @@
+<html>
+	<head>
+		<title>prove</title>
+	</head>
+	<body>
+		Esto es otra prueba
+	</body>
+</html>
